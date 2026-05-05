@@ -1,0 +1,27 @@
+[[headers]]
+  for = "*.br"
+  [headers.values]
+    Content-Encoding = "br"
+
+[[headers]]
+  for = "/Build/*"
+  [headers.values]
+    Content-Encoding = "br"
+
+[[headers]]
+  for = "/*.wasm.br"
+  [headers.values]
+    Content-Type = "application/wasm"
+    Content-Encoding = "br"
+
+[[headers]]
+  for = "/*.js.br"
+  [headers.values]
+    Content-Type = "application/javascript"
+    Content-Encoding = "br"
+
+[[headers]]
+  for = "/*.data.br"
+  [headers.values]
+    Content-Type = "application/octet-stream"
+    Content-Encoding = "br"
