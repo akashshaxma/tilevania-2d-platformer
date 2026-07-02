@@ -118,7 +118,8 @@ The game includes custom implemented:
 **Akash Sharma**
 Unity Game Developer | BSc IT Student | Aspiring Indie Game Creator
 
-GitHub: https://github.com/akashshaxma
+GitHub: https://github.com/imakashdev
+
 
 ---
 
